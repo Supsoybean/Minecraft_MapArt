@@ -29,8 +29,8 @@
     <td align="center">地图画预览图</td>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/b5980698.png" width="250"></td>
-    <td><img src="https://i.imgur.com/44427726.png" width="250"></td>
+    <td><img src="preview1.jpg" width="250"></td>
+    <td><img src="preview.png" width="250"></td>
   </tr>
 </table>
 
